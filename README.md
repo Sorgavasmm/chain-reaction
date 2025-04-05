@@ -80,7 +80,7 @@ Follow these instructions to get a local copy up and running for development or 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Sorgavasmm/chain-reaction.git](https://github.com/Sorgavasmm/chain-reaction.git)
+    git clone https://github.com/Sorgavasmm/chain-reaction.git
     cd chain-reaction
     ```
 
